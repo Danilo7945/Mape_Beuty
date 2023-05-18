@@ -26,4 +26,5 @@ Con el objetivo de revitalizar el mercado de salones de belleza, es crucial fome
 
 En consecuencia, se ha decidido emprender un proyecto que mejore la gestión de horarios y citas mediante el uso de software libre. Tras realizar un             estudio de mercado en el sector de los salones de belleza, se ha concebido la idea de desarrollar una aplicación web utilizando tecnologías como                   JavaScript, HTML y CSS, Y flutter en caso de movil Para el diseño de la interfaz de usuario, se utilizarán bibliotecas como React, una de las más                 populares y ampliamente documentadas. Además, se empleará MySQL para lograr una integración eficiente de la información en entornos web, con el                   objetivo de brindar una experiencia óptima tanto a los usuarios como a los clientes.
 </h><h3>Diseño y vista </h3>
-[![Dise-o-sin-t-tulo-1-removebg-preview.png](https://i.postimg.cc/59ZvQr1c/Dise-o-sin-t-tulo-1-removebg-preview.png)](https://postimg.cc/z3F390Vp)
+[![Dise-o-sin-t-tulo-1-removebg-preview.png](https://i.postimg.cc/59ZvQr1c/Dise-o-sin-t-tulo-1-removebg-preview.png)](https://postimg.cc/z3F390Vp)<h4>Logo</h4>
+[![Mape.png](https://i.postimg.cc/yxqhm1tR/Mape.png)](https://postimg.cc/TL9WG6R2)
