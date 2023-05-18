@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30",</img> I'm <a href="https://github.com/Danilo7945" target="blank">
 Danilo</a></h1>
-<h3 align="center">A passionate developer from Colombia &#x1F1E8; &#x1F1F4;</h3>
+<h3 align="center">A passionate developer from Colombia 🇨🇴;
 <h1 align="center">Proyecto
 Mape Beauty 👨‍💻📱</h1>
 
