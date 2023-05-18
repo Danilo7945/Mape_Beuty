@@ -38,5 +38,11 @@ En consecuencia, se ha decidido emprender un proyecto que mejore la gestión de 
 
 ---
 
-
-
+<h3 align="left"> 📫 Algunos lenguajes utilizados:</h3>
+<p align="left">
+<a target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="30" width="80" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="30" width="80" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="30" width="80" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="FLUTTER" height="30" width="80" /></a>
+<a target="blank"><img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt=".DART" height="30" width="80" /></a>
+</p>
