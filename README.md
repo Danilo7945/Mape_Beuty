@@ -35,9 +35,7 @@ En consecuencia, se ha decidido emprender un proyecto que mejore la gestión de 
 - 🤔 Recuperacion de contraseña
 - 💬 visualizacion de productos
 - ⚡ Fun fact: Otters are cool
-
 ---
-
 <h3 align="left"> 📫 Algunos lenguajes utilizados:</h3>
 <p align="left">
 <a target="blank"><img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="30" width="80" /></a>
